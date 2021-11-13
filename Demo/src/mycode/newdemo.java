@@ -1,4 +1,4 @@
-package newdemo;
+package mycode;
 
 public class newdemo {
 
