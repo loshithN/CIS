@@ -1,5 +1,5 @@
 package mycode;
 
-public class bvb {
+public class Subject {
 
 }
